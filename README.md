@@ -10,6 +10,10 @@
 
 <br />
 
+### Demo Screeshots
+
+![Taskbuddy Desktop Demo](https://github.com/Deepsonar2004/Crafti-Agency-Website/blob/main/dekstop%201.png)
+
 
 
 
