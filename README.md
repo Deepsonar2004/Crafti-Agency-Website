@@ -10,9 +10,7 @@
 
 <br />
 
-### Demo Screeshots
 
-![Crafti Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 
 ### License
