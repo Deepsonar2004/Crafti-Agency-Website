@@ -12,7 +12,11 @@
 
 ### Demo Screeshots
 
-![Taskbuddy Desktop Demo](https://github.com/Deepsonar2004/Crafti-Agency-Website/blob/main/dekstop%201.png)
+![demo](https://github.com/Deepsonar2004/Crafti-Agency-Website/blob/main/dekstop%201.png)
+
+<br/>
+
+![Crafti Agency Website](https://github.com/Deepsonar2004/Crafti-Agency-Website/blob/main/demo.png)
 
 
 
