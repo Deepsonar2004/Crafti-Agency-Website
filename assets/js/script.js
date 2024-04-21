@@ -24,11 +24,13 @@ const overlay = document.querySelector("[data-overlay]");
 
 const toggleNav = function () {
   navbar.classList.toggle("active");
+  
   overlay.classList.toggle("active");
 }
-
+//   overlay.classList.toggle("active");
+// }
 addEventOnElements(navTogglers, "click", toggleNav);
-
+console.log("It has been changed")
 
 
 /**
